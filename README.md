@@ -1,3 +1,3 @@
 # pygletrials
 
-A series of sandboxed trials of the `pyglet` library for Python.
+A series of sandboxed experiments of the [pyglet](http://www.pyglet.org/) library for Python.
